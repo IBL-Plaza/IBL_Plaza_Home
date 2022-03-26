@@ -771,6 +771,7 @@
   }
 } .u-section-8 {
   background-image: url("images/pexels-photo-9441882.jpeg");
+  background-position: 50% 50%;
 }
 
 .u-section-8 .u-sheet-1 {
@@ -794,10 +795,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-8 {
-    background-position: 50% 50%;
-  }
-
   .u-section-8 .u-sheet-1 {
     min-height: 667px;
   }
@@ -820,10 +817,6 @@
 }
 
 @media (max-width: 575px) {
-   .u-section-8 {
-    background-position: 14.34% 50%;
-  }
-
   .u-section-8 .u-sheet-1 {
     min-height: 499px;
   }

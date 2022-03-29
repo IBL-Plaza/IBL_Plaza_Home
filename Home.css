@@ -6,7 +6,6 @@
   width: 605px;
   min-height: 415px;
   background-image: none;
-  height: auto;
   margin: 165px auto 60px 52px;
 }
 
@@ -18,12 +17,6 @@
   font-size: 3.75rem;
   font-weight: 700;
   margin: 0 39px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-1 .u-group-1 {
-    height: auto;
-  }
 }
 
 @media (max-width: 991px) {

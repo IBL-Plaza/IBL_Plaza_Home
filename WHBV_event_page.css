@@ -11,9 +11,11 @@
 }
 
 .u-section-1 .u-image-1 {
-  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  background-image: url("images/Wei_selfie.jpg");
   background-position: 50% 50%;
-  background-image: url("images/Wei_selfie-60.jpg");
+  min-height: 494px;
+  transition-duration: 0.5s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -21,9 +23,11 @@
 }
 
 .u-section-1 .u-image-2 {
-  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  min-height: 494px;
+  background-image: url("images/Hugo_Selfie.jpg");
   background-position: 50% 50%;
-  background-image: url("images/Hugo_Selfie-61.jpg");
+  transition-duration: 0.5s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -69,12 +73,10 @@
 
   .u-section-1 .u-image-1 {
     min-height: 407px;
-    transition-duration: 0.5s;
   }
 
   .u-section-1 .u-image-2 {
     min-height: 407px;
-    transition-duration: 0.5s;
   }
 
   .u-section-1 .u-layout-cell-3 {
